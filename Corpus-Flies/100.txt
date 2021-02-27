@@ -1,0 +1,1034 @@
+<DOC>
+<DOCNO> NYT20000101.0001 </DOCNO>
+<DOCTYPE> NEWS STORY </DOCTYPE>
+<DATE_TIME> 2000-01-01 00:18 </DATE_TIME>
+<HEADER>
+A3885 &Cx1f; ttc-z
+r s BC-BKW-CSUN-MISSISSIPPIS     01-01 0545
+</HEADER>
+<BODY>
+<SLUG> BC-BKW-CSUN-MISSISSIPPISTATE-LADN </SLUG>
+<HEADLINE>
+NORTHRIDGE TAUGHT A LESSON
+</HEADLINE>
+ (For use by NYTimes News Service clients) 
+By LEE BARNATHAN  
+ c.2000 Los Angeles Daily News  
+<TEXT>
+<P>
+   LOS ANGELES _ School has been out at Cal State Northridge since
+the week before Christmas, but since you can learn something every
+day, Mississippi State's women's basketball team gave a lesson.
+</P>
+<P>
+   Northridge has talked about taking its game to the next level.
+The 21st-ranked Bulldogs _ the first nationally ranked team to play
+here in Northridge's Division I era _ gave a glimpse of that level
+in a 98-64 nonconference victory before a crowd of 165 Friday
+night.
+</P>
+<P>
+   It ended CSUN's 16-game home win streak.
+</P>
+<P>
+   Whether the Matadors learned from the Bulldogs (10-0) remains to
+be seen. The Big Sky Conference season begins Thursday at Northern
+Arizona, but the Matadors don't believe they'll face anyone of this
+caliber.
+</P>
+<P>
+   ``Our conference isn't that strong,'' Edneisha Curry admitted,
+``so we have to play hard and play with the type of desire and
+heart night in and night out, so we can play with Mississippi State
+and all the other ranked teams.''
+</P>
+<P>
+   For now, they have completed the most difficult portion of the
+schedule with two losses to nationally ranked teams in Illinois and
+Mississippi State and a win over an NCAA Tournament team in
+Dartmouth. It leaves them 6-4, the same record they had at this
+time last year.
+</P>
+<P>
+   Then again, they weren't talking about elevating their game at
+this time last year. Since the Matadors have reached the NCAA
+Tournament and are hungry for more, Mississippi State provided
+clues to what they need to do.
+</P>
+<P>
+   It's the basics: shoot a high percentage, rebound well and
+commit fewer turnovers and fouls. Shooting 36.7 percent, taking
+just 28 boards and committing 17 turnovers might be enough to win
+the Big Sky, but it won't get you past Mississippi State, which
+shot 50.7 percent and took 51 rebounds. Although the Bulldogs
+turned over the ball the same number of times, they also committed
+six fewer fouls.
+</P>
+<P>
+   It also helps to have a player like freshman LaToya Thomas, who
+can deliver points in bunches when needed. Thomas scored 33,
+including 18 in the first half, but was most valuable in the second
+half when she scored eight points in a 10-0 run that ended any hope
+of a Northridge comeback. CSUN had cut a 50-25 halftime deficit to
+59-45 with 12:21 to play and had some momentum.
+</P>
+<P>
+   ``Our goal in the second half was to cut it to 10 by the
+10-minute mark,'' CSUN coach Frozena Jerro said.
+</P>
+<P>
+   Actually, Northridge has a Thomas-like player in Curry, who
+scored 21 points. But she made 9 of 23 field-goal attempts, far
+below Thomas' 11 of 18.
+</P>
+<P>
+   The other time Northridge was close was when it scored eight
+straight points and trailed 13-12 with 12:46 to play in the first
+half. Mississippi State responded with a 25-7 run in 9:10 to put
+the game out of reach.
+</P>
+<P>
+   ``Right now, they're getting a lot of experience,'' Bulldogs
+coach Sharon Faning said. ``They need to work on footwork, defense,
+rebounding _ same as us.''
+</P>
+<P>
+   Three other Mississippi State players scored in double figures:
+Jennifer Fambrough (22), Cynthia Hall (11) and Meadow Overstreet
+(11). Northridge got 14 from Lynda Amari and 13 from LaShaunda
+Fowler.
+</P>
+</TEXT>
+</BODY>
+<TRAILER>
+NYT-01-01-00 0018EST &QL; 
+</TRAILER>
+</DOC>
+<DOC>
+<DOCNO> NYT20000101.0002 </DOCNO>
+<DOCTYPE> NEWS STORY </DOCTYPE>
+<DATE_TIME> 2000-01-01 00:21 </DATE_TIME>
+<HEADER>
+A3886 &Cx1f; taf-z
+u a BC-NYTIMES-ISSUE-NUMBER-     01-01 0415
+</HEADER>
+<BODY>
+<SLUG> BC-NYTIMES-ISSUE-NUMBER-NYT </SLUG>
+<HEADLINE>
+A CORRECTION: WELCOME TO 51,254 
+</HEADLINE>
+  (lh) 
+ 
+ c.1999 N.Y. Times News Service    
+<TEXT>
+<P>
+   NEW YORK _ For those who believe that in the good old days _
+before calculators, before computers _ people were better at mental
+arithmetic, The New York Times offers a sobering New Year's
+message: Not necessarily.
+</P>
+<P>
+   On Feb. 6, 1898, it seems, someone preparing the next day's
+front page tried to add 1 to the issue number in the upper left
+corner (14,499) and came up with 15,000. Apparently no one noticed,
+because the 500-issue error persisted until Friday (No. 51,753).
+Saturday The Times turns back the clock to correct the sequence:
+this issue is No. 51,254.
+</P>
+<P>
+   Thus an article on March 14, 1995, celebrating the arrival of
+No. 50,000 was 500 days premature. It should have appeared on July
+26, 1996.
+</P>
+<P>
+   The error came to light recently when Aaron Donovan, a news
+assistant, became curious about the numbering, which he updates
+nightly when working at the news desk. He wondered about the
+potential for self-perpetuating error. Using a spreadsheet program,
+he calculated the number of days since The Times' founding, on
+Sept. 18, 1851.
+</P>
+<P>
+   Through the newspaper's archives, he learned that in its first
+500 weeks, The Times published no Sunday issue. Then, for 2,296
+weeks from April 1861 to April 1905, the Sunday issue was treated
+as an extension of the Saturday paper, bearing its number. In the
+early days, the paper skipped publication on a few holidays. No
+issues were published for 88 days during a strike in 1978. (During
+five earlier labor disputes, unpublished issues were assigned
+numbers, sometimes because catch-up editions were later produced
+for the archives.)
+</P>
+<P>
+   Finally, by scanning books of historic front pages and reels of
+microfilm, Donovan zeroed in on the date of the 500-issue gap.
+</P>
+<P>
+   ``There is something that appeals to me about the way the issue
+number marks the passage of time across decades and centuries,''
+said a memo from Donovan, who is 24. ``It has been steadily
+climbing for longer than anyone who has ever glanced at it has been
+alive. The 19th-century newsboy hawking papers in a snowy Union
+Square is in some minute way bound by the issue number to the
+Seattle advertising executive reading the paper with her feet
+propped up on the desk.''
+</P>
+<P>
+   As for the other number on the front page _ the volume, in Roman
+numerals _ it remains CXLIX. It will change to CL on Sept. 18, when
+The Times enters its 150th year.
+</P>
+</TEXT>
+</BODY>
+<TRAILER>
+NYT-01-01-00 0021EST &QL; 
+</TRAILER>
+</DOC>
+<DOC>
+<DOCNO> NYT20000101.0003 </DOCNO>
+<DOCTYPE> NEWS STORY </DOCTYPE>
+<DATE_TIME> 2000-01-01 00:35 </DATE_TIME>
+<HEADER>
+A3888 &Cx1f; tad-z
+u w BC-Y2K-MALL-2NDLD-COX     01-01 0916
+</HEADER>
+<BODY>
+<HEADLINE>
+&HT;   
+</HEADLINE>
+ BC- Y2K-MALL-2NDLD-COX &HT;    MASSIVE CROWD WATCHES CLINTON IGNITE FIREWORKS SPECTACULAR TO
+GREET 2000
+ &HT;    EDS: New top and updates throughout.
+ &HT;    By SCOTT MONTGOMERY
+ &HT;    c.2000 Cox News Service
+<TEXT>
+<P>
+   WASHINGTON _ Clear skies and a string of flawless midnight New
+Year's rollovers around the globe enticed a massive crowd to the
+National Mall for a fireworks spectacular ignited by President
+Clinton to greet the 21st century.
+</P>
+<P>
+   On a night when Clinton called on America to make its ``dreams
+stronger than its memories,'' 2000 arrived in the nation's capital
+in a shower of light over the Washington Monument that left
+thousands of spectators cheering.
+</P>
+<P>
+   Clinton, speaking from the steps of the Lincoln Memorial with
+the Great Emancipator peering over his should, said ``Americans
+must not fear change. Instead,'' he said, ``let us welcome it,
+embrace it, and create it.''
+</P>
+<P>
+   Although daytime activities in Washington drew modest crowds,
+throngs streamed in by nightfall to find grassy seats on the
+heavily-secured patch of the Mall.
+</P>
+<P>
+   They choked into long thick lines through a handful of security
+checkpoints where revelers submitted to searches. At one point,
+crowds on 17th Street waiting to pass through security entrances
+pushed over barriers and rushed past police who were helpless to
+stop them.
+</P>
+<P>
+   Since last week, officials had been scaling back the size of the
+crowd they expected from an original estimate of 500,000. But as
+midnight closed in, the streets teemed with people and there seemed
+to be little left of the anxiety over terrorist attacks that
+prompted the mayor of Seattle last week to cancel a major outdoor
+celebration around the city's famed Space Needle.
+</P>
+<P>
+   Washington's three-hour show, with a pricetag of $12 million,
+competed on television with the customary Times Square celebration.
+While New York's gala featured the traditional ball of light
+descending in the seconds before midnight, Washington's had a white
+light of fireworks cascading up the 555-foot Washington Monument,
+sparked by a fuse racing along the reflecting pool from the Lincoln
+Memorial.
+</P>
+<P>
+   Diane Tresca and her husband, Sal, of Rhode Island, left the
+friends they were visiting in a Maryland suburb to come down to the
+Mall where the gala at the Lincoln Memorial also was shown on large
+screen TVs set up on the grass. Their friends wouldn't leave their
+house.
+</P>
+<P>
+   ``They're too busy holding onto their bottled water,'' Diane
+Tresca said.
+</P>
+<P>
+   She said she wasn't concerned about terrorism. ``No,'' she said,
+``I'm more concerned about not being able to see the screen.''
+</P>
+<P>
+   In remarks at events throughout the day, Clinton made no mention
+of the unease that had settled on Washington in the weeks leading
+up to Friday night. Fear of terrorism pegged to year-end
+celebrations focused on Washington, New York and Seattle.
+</P>
+<P>
+   ``What we celebrate did not begin today, and it will not end
+tomorrow,'' Clinton said to a crowd at the Mall earlier in the day.
+``There is no better opportunity to open a new chapter of progress
+and possibility for all people ... no better time to be a truly
+good neighbor to the people of the world who share this smaller and
+smaller planet of ours.''
+</P>
+<P>
+   Clinton thanked God ``for this wonderful weather, so we all feel
+good being out here. . . The sun is still rising on America.''
+</P>
+<P>
+   As the sunlight faded on the day, the Siegel family of Richmond
+played the card game Uno while sitting on the curb waiting, with a
+few hundred others, to be let into a fenced off section of the Mall
+nearest the Lincoln Memorial.
+</P>
+<P>
+   Actor and musician Will Smith hosted the three-hour stage show
+called ``America's Millennium Gala.'' Clinton and other
+dignitaries, including former Sen. John Glenn, watched from a
+heated booth at the Lincoln Memorial.
+</P>
+<P>
+   Among the performers were actors Robert Duvall and Jack
+Nicholson, actress Diane Keaton, and musicians Don McLean, Bobby
+McFerrin, Kenny Rogers, Luther Vandross, Kathy Mattea, Trisha
+Yearwood, and the 25-member company of the Broadway production
+``Stomp.''
+</P>
+<P>
+   The Siegels weren't worried about the dangers of either Y2K
+chaos or terrorism. In fact, they joked about the festivities being
+hosted by Smith, who has played the hero in a pair of futuristic
+space-themed films, ``Men in Black'' and ``Independence Day.''
+</P>
+<P>
+   ``We thought since Will Smith is the host and he's killed aliens
+and space bugs, you couldn't be in a better-protected zone,'' joked
+Dan Siegel, 46, who was there with his wife, Peggy, and children
+Julia, 16, and Tommy, 14.
+</P>
+<P>
+   But the potential for danger made it possible to get a hotel
+room within walking distance of the Mall just last week. And, in
+their one concession to the Y2K bug, the Siegels settled on
+Washington as their New Year's celebration destination because they
+could make the trip from Richmond and back on a single tank of gas.
+</P>
+<P>
+   ``Just in case there's a problem and we can't get any more,''
+said Peggy Siegel, also 46.
+</P>
+<P>
+   For Benjamin McKenzie, 29, the trip to the Mall was just a walk.
+He lives on Capitol Hill and brought his 15-year-old brother, who's
+visiting from upstate New York, down for the fireworks. But he
+couldn't get his friends to join in.
+</P>
+<P>
+   ``They said 'No way!''' McKenzie said. ``We know security is a
+concern, but it's not overwhelming. It feels like a normal day.''
+</P>
+<P>
+   (Scott Montgomery can be reached by e-mail at:
+scottm(at)coxnews.com).
+</P>
+<P>
+   ENDIT
+</P>
+<P>
+   Story Filed By Cox Newspapers
+</P>
+<P>
+   For Use By Clients of the New York Times News Service
+</P>
+</TEXT>
+</BODY>
+<TRAILER>
+NYT-01-01-00 0035EST &QL; 
+</TRAILER>
+</DOC>
+<DOC>
+<DOCNO> NYT20000101.0004 </DOCNO>
+<DOCTYPE> NEWS STORY </DOCTYPE>
+<DATE_TIME> 2000-01-01 00:36 </DATE_TIME>
+<HEADER>
+A3889 &Cx1f; taf-z
+u a BC-Y2K-AIRLINES-1STLD-WR     01-01 0636
+</HEADER>
+<BODY>
+<SLUG> BC-Y2K-AIRLINES-1STLD-WRITETHRU-NYT </SLUG>
+<HEADLINE>
+FEAR OF COMPUTER GLITCH GROUNDS THOUSANDS OF AIR TRAVELERS 
+</HEADLINE>
+  
+ (UPDATES 2nd graf with midnight arriving; ADDS graf 4 grafs from
+end of story about glitch) (kd) 
+ By LAURENCE ZUCKERMAN    
+ c.2000 N.Y. Times News Service    
+<TEXT>
+<P>
+   Airports around the world, ordinarily quiet on New Year's Eve,
+were unusually so Friday as thousands of potential travelers stayed
+put while the world's air traffic system rolled over to the year
+2000.
+</P>
+<P>
+   Yet, despite such fears and recent concerns about terrorism,
+commercial aviation entered the new year without incident as
+midnight arrived around the globe.
+</P>
+<P>
+   The major test for commercial aviation came at midnight in
+London when the global air traffic control system, which observes
+Greenwich Mean Time, crossed over into the new year without
+difficulty.
+</P>
+<P>
+   Worldwide, about 1,350 commercial jets were in the air at the
+time, according to the Air Transport Association, the airline
+industry's trade group. That was less than half the number of
+planes that flew last New Year's Eve.
+</P>
+<P>
+   Airlines around the world canceled thousands of flights because
+of low demand.
+</P>
+<P>
+   Eurocontrol, the organization that coordinates air traffic over
+Europe, estimated that about 50 jets were in the air at midnight, 5
+percent of the peak traffic on a typical winter day.
+</P>
+<P>
+   United Airlines and American Airlines, the world's two largest
+carriers, said they had canceled about one-third of their flights
+Friday.
+</P>
+<P>
+   As a result, airports across the United States appeared
+desolate. The three New York airports _ Kennedy International,
+LaGuardia and Newark _ were expecting to handle only 270,000
+passengers Friday, compared with 430,000 on the same day last year.
+</P>
+<P>
+   Many airline executives and aviation officials around the world
+had hoped to reassure the public by being passengers themselves on
+New Year's Eve. Jane Garvey, chief of the Federal Aviation
+Administration, booked herself on several flights that were
+subsequently canceled.
+</P>
+<P>
+   Friday afternoon, flanked by the head of the FAA's Year 2000
+effort, two public affairs officers, Sen. Slade Gorton of
+Washington and a score of journalists, she boarded an American
+Airlines flight from Washington to Dallas.
+</P>
+<P>
+   With 100 empty seats available on the jetliner, the only
+passenger not directly connected to Ms. Garvey's efforts appeared
+to be Janet S. Rhodes of Long Beach, Calif., who said she came to
+Washington on Friday so that she could greet the new millennium
+aloft and tell her grandchildren about it.
+</P>
+<P>
+   Ms. Rhodes said she had told her four sons, ``Just follow Jane
+Garvey's progress on television and you'll know where I am.''
+</P>
+<P>
+   The world's airlines and air traffic control centers spent an
+estimated $2.5 billion to assure that their computers could read
+the year 2000 correctly. But experts did not consider air safety to
+be particularly vulnerable.
+</P>
+<P>
+   The only glitch reported Fridayoccurred when printers in Alaska,
+California and Long Island that are used to relay information to
+control- lers from airplanes flying over the ocean all went on the
+blink at mid- night Greenwich time. The failure lasted only about
+30 minutes and had no operational effect, the FAA said, adding that
+it was not even clear that the problem was caused by the date
+change.
+</P>
+<P>
+   Boeing Co., the world's largest producer of commercial
+airliners, said it surveyed thousands of airborne systems on its
+planes and found only three that were date sensitive.
+</P>
+<P>
+   Nevertheless, many passengers said they were not taking any
+chances by being in the air at the witching hour.
+</P>
+<P>
+   ``I think it will probably be OK, but I'm trying to get home
+before midnight,'' said Del Turner, who was waiting for a flight at
+Los Angeles International Airport. ``Something will happen. They
+haven't fixed everything.''
+</P>
+</TEXT>
+</BODY>
+<TRAILER>
+NYT-01-01-00 0036EST &QL; 
+</TRAILER>
+</DOC>
+<DOC>
+<DOCNO> NYT20000101.0005 </DOCNO>
+<DOCTYPE> NEWS STORY </DOCTYPE>
+<DATE_TIME> 2000-01-01 00:41 </DATE_TIME>
+<HEADER>
+A3891 &Cx1f; taf-z
+u a BC-OBIT-HUBBARD-NYT &LR;      01-01 0398
+</HEADER>
+<BODY>
+<SLUG> BC-OBIT-HUBBARD-NYT </SLUG>
+<HEADLINE>
+RAY HUBBARD, 75, PIONEER IN BROADCASTING 
+</HEADLINE>
+  
+ (ATTN: Calif., Maine)  (lh) 
+ 
+ c.2000 N.Y. Times News Service    
+<TEXT>
+<P>
+   Ray Hubbard, a television producer and broadcasting executive
+and a pioneer in the medium, died on Dec. 27 in Kenwood, Calif. He
+was 75 and had been suffering from Parkinson's disease.
+</P>
+<P>
+   Hubbard was vice president for programming and production at
+Post-Newsweek Stations in Washington, the broadcast group of The
+Washington Post, from 1969 to 1976. Before that he was the national
+programming manager and executive producer of public affairs for
+Group W, the Westinghouse Broadcasting Co. in New York, where he
+helped to develop the Steve Allen, Mike Douglas, Merv Griffin and
+Regis Philbin shows and ``P.M. East'' with Mike Wallace.
+</P>
+<P>
+   At Westinghouse, Hubbard was responsible for programs including
+``Discovery,'' a 13-part series on contemporary art produced with
+the San Francisco Museum of Art; ``Black Culture,'' 65 half-hour
+programs created with Morgan State University in Baltimore; and
+``Children's Spectaculars,'' a series of hourlong dramatic shows
+featuring Zero Mostel, Boris Karloff, Claire Bloom and others. He
+also produced a variety of specials, including the Benny Goodman
+show at the American pavilion at the 1958 World's Fair in Brussels,
+Belgium.
+</P>
+<P>
+   An advocate of educational children's fare, Hubbard worked with
+local school systems and hired writers to create study guides, one
+of the earliest examples of the interactive use of television in
+learning. He was responsible for ``Harambee,'' the first daily
+scheduled black culture-oriented program on American television,
+and ``Everywoman,'' the first prime-time women's program.
+</P>
+<P>
+   Upon retiring from Post-Newsweek, Hubbard produced ``Special
+Delivery,'' five half-hour programs for children about living with
+disabilities. He then established Unicorn Projects Inc., a
+nonprofit production company.
+</P>
+<P>
+   Hubbard was the recipient of major broadcasting awards including
+the Emmy, Dupont and George Foster Peabody Awards.
+</P>
+<P>
+   Born in Los Angeles, he graduated from the California College of
+Arts and Crafts in Oakland in 1942 and earned a master's degree in
+theater and communications from Stanford University in 1951.
+</P>
+<P>
+   He is survived by his wife, Marion; three sons, Bruce and
+Stephen, of Pasadena, Calif., and Gregory of Wells, Maine; and two
+grandchildren.
+</P>
+</TEXT>
+</BODY>
+<TRAILER>
+NYT-01-01-00 0041EST &QL; 
+</TRAILER>
+</DOC>
+<DOC>
+<DOCNO> NYT20000101.0006 </DOCNO>
+<DOCTYPE> NEWS STORY </DOCTYPE>
+<DATE_TIME> 2000-01-01 00:43 </DATE_TIME>
+<HEADER>
+A3893 &Cx1f; tad-z
+u i BC-MEXICO-Y2K-0101-COX     01-01 0618
+</HEADER>
+<BODY>
+<SLUG> BC-MEXICO-Y2K-0101-COX </SLUG>
+<HEADLINE>
+&HT;   
+</HEADLINE>
+ &HT;    ATTN EDs: rewrites top to add color, quotes; fixes, changes
+throughout
+ &HT;    THIRD MILLENNIUM CELEBRATIONS CAST LIGHT ON TWO MEXICOS
+ &HT;    By FRANC CONTRERAS 
+ &HT;    c.1999 Special to the Cox News Service 
+<TEXT>
+<P>
+   OAXACA CITY, Mexico _ While most of Mexico welcomed the Third
+Millennium with fireworks, concerts and long-standing traditions,
+the celebration was muted in rural areas by fear of rebel attacks
+and the so-called Y2K bug's negative impact on tourism.
+</P>
+<P>
+   All across Mexico and here, in this well-known colonial city,
+families joined together for traditional New Year's Eve supper and
+counted down to mid-night wearing red underwear, which they believe
+brings them good luck in the new year.
+</P>
+<P>
+   ``I went to three different stores today looking for red
+underwear,'' said Marta Ramales. ``But all the stores were out and
+I couldn't find it anywhere.''
+</P>
+<P>
+   She opted for a red blouse and toasted the new millennium with
+glass of strong mescal, Oaxaca's answer to tequila.
+</P>
+<P>
+   After the toast, each of her 20 family members ate 12 grapes
+each, one for every month. The tradition comes from Spain, where
+the fruit is eaten also to bring good luck in the new year.
+</P>
+<P>
+   Behind the celebrations, small business owners said Y2K began
+with a drop off in tourism among international travelers,
+especially from the United States. Many blamed it on fears of
+possible Y2K computer troubles. For example, Mexico City airport
+officials said 40 percent of flights on Dec. 31 were cancelled due
+to ``mostly last-minute cancellations'' over Y2K concerns.
+</P>
+<P>
+   Still, young Mexican boys here in Oaxaca City celebrated the new
+millennium as they do any New Year's Eve, by tossing firecrackers
+in the fiesta-filled streets. And the city planned massive
+fireworks display that would take place over the colonial-era
+cathedral in the city center.
+</P>
+<P>
+   An even more festive atmosphere prevailed in streets of the
+capital Mexico City.
+</P>
+<P>
+   The historic Paseo de la Reforma, the city's main boulevard, was
+filled with tens of thousands of revelers, coming to see parades
+and live concerts.
+</P>
+<P>
+   Cathedral bells rang in the main square, called the Zocalo,
+where 300,000 people turned out for shows by Mexico's famous singer
+Juan Gabriel and to hear 200 mariachis sing Las Golondrinas, a
+traditional song that says good-bye to the old year.
+</P>
+<P>
+   Adding to the millennium fervor, President Ernesto Zedillo, in a
+video-taped address, said, ``We are a country that does not measure
+our history in months or years, but in
+</P>
+<P>
+   millenniums.''
+</P>
+<P>
+   In the Mexican capital, there was little talk of Y2K computer
+glitches following months of claims by government officials that
+Mexico is among the most Y2K-compliant nations in the hemisphere.
+It has installed computer programs to prevent banking errors, and
+to keep the national stock market _ the Bolsa Mexicana de Valores _
+from crashing on the new year's first day of business.
+</P>
+<P>
+   A larger concern for the government is the threat of armed
+guerillas of the Popular Revolutionary Army, or EPR, in the
+mountain villages of the Sierra Madre del Sur in southern Mexico.
+</P>
+<P>
+   Heavily armed soldiers could be seen watching over villages near
+Oaxaca City, thought to be rebel strongholds and stopping vehicles
+at military checkpoints on the highways outside the city.
+</P>
+<P>
+   ``We know the government is bringing troops to indigenous
+villages to stop the rebels,'' said Pedro Nava Rodriguez, director
+of the Organization of Towns and Neighborhoods in Guerrero. ``But
+they are violating the human rights of innocent people who have
+nothing to do with guerilla struggles.''
+</P>
+<P>
+   ENDIT
+</P>
+<P>
+   Story Filed By Cox Newspapers
+</P>
+<P>
+   For Use By Clients of the New York Times News Service
+</P>
+</TEXT>
+</BODY>
+<TRAILER>
+NYT-01-01-00 0043EST &QL; 
+</TRAILER>
+</DOC>
+<DOC>
+<DOCNO> NYT20000101.0007 </DOCNO>
+<DOCTYPE> NEWS STORY </DOCTYPE>
+<DATE_TIME> 2000-01-01 00:50 </DATE_TIME>
+<HEADER>
+A3894 &Cx1f; tta-z
+u a BC-NEWYEAR-RDP-1STLD-WRI     01-01 1067
+</HEADER>
+<BODY>
+<SLUG> BC-NEWYEAR-RDP-1STLD-WRITETHRU-3TAKES(TRIMS)-NYT </SLUG>
+<HEADLINE>
+MIDNIGHT TICKS ACROSS GLOBE, BRINGING A NEW AGE WITH IT
+</HEADLINE>
+   (SUBS to add new 3rd graf about Israel in 3rd take; inserts new
+10th through 14th grafs on Rio, Canada and other places in 3rd
+take, bgng: With religious.... Adds 6 new grafs about New York to
+end of original text.) 
+(nk) 
+ By ROBERT D. McFADDEN   
+ c.2000 N.Y. Times News Service    
+<TEXT>
+<P>
+   Two thousand years after Christ's obscure birth in a dusty town
+in Judea, the world's 6 billion people _ most of them non-Christian
+and many of them preoccupied with terrorism, computers, diets, bank
+accounts, politics and the perils of the future _ rode their
+turning blue planet across time's invisible line Friday and, by
+common consent, looked into the dawn of a new millennium.
+</P>
+<P>
+   What they saw first was a party. It was garish, glittering and
+global, and millions, setting religious considerations and personal
+concerns aside, joined in the festivities to celebrate the
+conjunction of a new year, a new century and a new thousand-year
+cycle of history. They also put aside the inconvenient fact that
+the millennium, technically, is still a year off.
+</P>
+<P>
+   It hardly mattered. In New York's Times Square and across the
+United States, in Europe, Asia, Africa and Australia, in cities and
+towns all over the world, bells pealed, crowds shrieked and surged,
+skyrockets soared into the night, fireworks burst into supernovas,
+``Auld Lang Syne'' rang out, lights pulsed, loved ones and friends
+embraced, and the music and Champagne flowed.
+</P>
+<P>
+   On a day when moods ran the spectrum from tensions and prayers
+to euphoria and irresistible hyperbole, what most were calling
+Christianity's Third Millennium arrived in 24 stages as the earth
+revolved through the time zones and midnight elapsed again and
+again in an around-the-clock, around-the-world series of golden
+moments that began at the International Dateline in the Pacific and
+raced westward across Asia, Africa, Europe and the Americas.
+</P>
+<P>
+   In New York, a vast crowd of revelers _ the guesses ran as high
+2 million _ packed Times Square and much of Midtown Manhattan for
+the biggest public event ever held in the city _ a 26-hour, $7
+million marathon of music, fireworks, confetti and deafening voices
+culminating as a 1,070-pound crystal ball descended at midnight,
+while the police sweated out an enormous potential for trouble.
+</P>
+<P>
+   And there were lavish celebrations in Washington, London, Paris,
+Rome, Berlin, Jerusalem, Moscow, Cape Town, New Delhi, Shanghai,
+Beijing, Tokyo, Mexico City, Rio de Janeiro, Buenos Aires and
+hundreds of other cities. There were parties, concerts, dances,
+torchlight parades and televised extravaganzas that brought the
+worldwide show to billions more at home and to the crowds in Times
+Square over giant video screens _ a case of celebrators watching
+celebrators.
+</P>
+<P>
+   (BEGIN OPTIONAL TRIM)
+</P>
+<P>
+   To a Martian earthwatcher (tuning in with delicate ear and
+Cycloptic eye), it might have appeared that the inhabitants of the
+third world from the Sun had suddenly lost their senses or gone to
+war again. But it was only humanity on the threshold of a new age,
+exercising its primal urge to celebrate.
+</P>
+<P>
+   (END OPTIONAL TRIM)
+</P>
+<P>
+   There had been an avalanche of happy millennial overkill in
+recent days _ claims of the last-game, last-meal, first-baby kind _
+and Friday it was the turn of world leaders in government,
+religion, science and other fields, who spoke of the millennium's
+meaning in more serious tones.
+</P>
+<P>
+   ``Today, we celebrate more than the changing of the calendar,''
+President Clinton, extending millennium greetings to the world,
+said in an address to diplomats and children from 100 nations. ``We
+celebrate the opportunity we have to make this a true changing of
+the times, a gateway to greater peace and freedom, to prosperity
+and harmony.''
+</P>
+<P>
+   In Moscow, Boris Yeltsin, who has been plagued with heart and
+other problems for most of his eight years as Russia's president,
+unexpectedly announced his resignation. ``Russia must enter the new
+millennium with new politicians, new faces, new intelligent, strong
+and energetic people,'' he said. ``And we who have been in power
+for many years must go.''
+</P>
+<P>
+   At the Vatican, Pope John Paul II, fulfilling his dream to lead
+the Roman Catholic Church across the threshold of 2000, gave his
+blessing to a vast crowd in St. Peter's Square, reiterated his
+calls for an end to war and poverty, and thanked God for ``the
+events of this year, this century and this millennium.''
+</P>
+<P>
+   There were millions around the world who had no reason to be
+festive, people like Tom Nganga, 40, who lives in Kangemi, a vast
+slum of Nairobi, Kenya. ``We as Kenyans and people of Kangemi are
+very, very angry as we celebrate this millennium,'' he said.
+``People are very poor. People have nothing to eat. We have nothing
+to celebrate.''
+</P>
+<P>
+   While the millennium celebrations drew millions, there were
+relatively few casualties. In the Philippines, two people were
+killed by stray gunfire and a 5-year-old boy died after a
+firecracker exploded in his face. At least 200 other Filipinos were
+injured by fireworks. In Paris, 70 people were hurt in crowds.
+</P>
+<P>
+   After years of concern over Y2K computer problems that had cost
+billions of dollars to fix, there were no immediate reports of
+computer-related disasters anywhere in the world _ no plane
+crashes, major power failures, nuclear plant shutdowns or collapses
+of banking, business, government or health care systems.
+</P>
+<P>
+   But elevators, intercity trains and subways in many American
+cities and in other countries as well were halted briefly over the
+witching hour, and some airlines canceled flights for the day, just
+to be safe. Many airports were all but deserted, with wary
+travelers staying put. Experts said it might take days for some
+computer problems to develop, in part because many businesses and
+government agencies were closed for the holiday weekend.
+</P>
+<P>
+   There had also been fears that terrorists, publicity seekers or
+the insane might set off explosions or mount chemical or biological
+attacks as millions gathered to celebrate, while vast audiences
+watched on television. No specific threats had been reported,
+although some suspects had been seized recently. Still, there were
+no immediate reports of trouble, and law enforcement authorities
+seemed ready for almost anything.
+</P>
+<P>
+   nn
+</P>
+<P>
+   (BEGIN OPTIONAL TRIM)
+</P>
+<P>
+   The millennium, an idea with overtones ranging from Biblical to
+commercial, had swelled recently into a coercive miniculture as the
+countdown ticked away and a flood of books, articles, television
+specials and studied commentaries by academic, political and
+religious leaders reflected upon the last thousand years of human
+achievements and missteps, and speculated on the next thousand.
+</P>
+<P>
+   Purists still insist that the millennium will not start until
+Jan. 1, 2001, and they are no doubt right. The calendar, at best,
+is arbitrary. There were problems from ancient times based on
+inaccuracies in measuring the year's duration and its uneven
+division into days, weeks and months. By 1582, the spring equinox
+was 10 days early, and the days were dropped when the Gregorian
+Calendar replaced the old Julian version. While Pope Gregory's
+calendar uses the birth of Christ in 1 B.C., as a starting date,
+many scholars now suggest that the year was probably closer to 4
+B.C.
+</P>
+<P>
+   In any case, as Voltaire noted, history is the lie that
+historians agree upon, and the tide of popular opinion has swept
+nearly everyone along. And with the climax of celebrations, and
+especially when the nines rolled into zeros at midnight and
+humanity went ballistic, purists' talk of technicalities was the
+last thing anyone wanted to hear.
+</P>
+<P>
+   For doomsayers who had prophecied conflagrations, earthquakes,
+volcanic eruptions and other end-of-the-world scenarios (and kept a
+weather eye out for UFO rescue ships), the new millennium was
+something of a nonevent, although the anxiety prompted by all the
+wild predictions of chaos was real enough.
+</P>
+<P>
+   The Book of Revelations, Chapter 20, speaks of a resurrection of
+the dead and a judgment day, of sinners cast into a lake of fire
+and Christ reigning for a thousand years. But if it was not the
+Second Coming of Jesus as foretold in the Bible, there was still a
+year to go, or this was the wrong millennium.
+</P>
+<P>
+   And if, as some said, even the idea of a Third Christian
+Millennium was a Western conceit in a world where Christians are a
+minority, and one that overlooked other calendars calling this 1420
+(Muslim) or 5760 (Jewish), it was also true that the world had long
+ago come by economic and social necessity to agree upon the Western
+calendar for trade, travel and other common purposes.
+</P>
+<P>
+   The millennium, if nothing else, was a celebration of history,
+marking human survival after a deadly century of wars, genocide and
+revolution that saw the end of colonialism, fascism and communism,
+as well as the achievements of the past thousand years _ printing
+and widespread literacy; the exploration of the last frontiers on
+earth; the first ventures into outer space, the inner mind and the
+microscopic universe, and the flowering of democratic government,
+and of art, literature, science, technology and communications into
+undreamed eminences.
+</P>
+<P>
+   The world on this Millennium Day was still beset with terrible
+problems _ with grinding poverty that afflicted a third of its 6
+billion inhabitants, with ethnic and national strife, with the
+continuing curse of racial and religious bigotries, and with the
+exclusion of countless millions from adequate health care,
+education, jobs and even such basic needs as shelter and clean
+water, not to mention freedoms of speech and political association.
+</P>
+<P>
+   But with a few exceptions _ notably threats of terrorism and
+limited wars in the Balkans, Chechnya and other regions _ it was a
+world largely at peace, with the apocalyptic threat of nuclear
+annihilation receding and new understandings growing between old
+enemies in the Middle East, Ireland, South Africa and other
+long-troubled areas.
+</P>
+<P>
+   And it was a world on the threshold of a new era _ one that
+offered visions of astounding strides in science and technology and
+seemed to hold out anew the ancient promises of universal peace and
+prosperity, although the only certainty seemed to be that the world
+a thousand years from now would be unrecognizable.
+</P>
+<P>
+   (END OPTIONAL TRIM)
+</P>
+<P>
+   As Dec. 31, 1999, gave way to Jan. 1, 2000, in each time zone at
+midnight, with atomic clocks marking it to a millisecond,
+celebrants went ecstatic. It began in Fiji and the Kiribati and
+Marshall Islands in the Western Pacific (it was 7 a.m., EST Friday)
+and moved westward, hour by hour, as the earth turned and 23 more
+midnights fell across Australia, Asia, Europe, Africa, the Americas
+and back across the Pacific, ending in Samoa at 6 a.m., EST
+Saturday.
+</P>
+<P>
+   Islanders in Kiribati welcomed the millennium with the mournful
+sounds of a conch shell and with traditional chants and dancing on
+the beach of a normally uninhabited coral atoll, dubbed Millennium
+Island.
+</P>
+<P>
+   In Japan, which has absorbed many of the trappings of the
+Western world while preserving its own cultural and religious
+traditions, bells tolled in a Buddhist ritual to dispel evils as
+thousands flocked to temples and shrines. In Tokyo, the first of
+the world's major cities to mark the new year, people went to
+parties and crowds swarmed to bayside events, including rock
+concerts and lavish fireworks.
+</P>
+<P>
+   In China, torchbearers in Imperial-era costumes lighted signal
+fires on the watch towers of the Great Wall, which snakes 3,000
+miles from the Gobi Desert to the North China Sea, and President
+Jiang Zemin lighted an eternal flame to greet the new millennium
+and pledged a ``great rejuvenation'' by reuniting with Taiwan.
+</P>
+<P>
+   Over Hong Kong Harbor there were brilliant fireworks displays,
+and parties abounded, a prelude to the Chinese new year, the Year
+of the Dragon, which starts Feb. 5.
+</P>
+<P>
+   nn
+</P>
+<P>
+   The festivities for most of India's 1 billion people were muted
+by comparison with those in wealthier nations, but hundreds of
+thousands danced, drank and ate at open-air stalls in New Delhi and
+partygoers were out in force in other major cities, celebrating the
+peaceful end of an eight-day hostage crisis aboard an Indian
+Airlines hours before midnight.
+</P>
+<P>
+   Iran and its Persian Gulf neighbors largely ignored the new
+millennium, which fell during the Islamic holy month of Ramadan, a
+time for prayer and reflection.
+</P>
+<P>
+   With religious bans on celebrations that might desecrate holy
+days, the celebrations in Israel were relatively subdued. In
+Palestinian-governed Bethlehem, the town revered by Christians as
+the birthplace of Jesus, 2,000 doves were released at midnight on
+Manger Square, and in secular Tel Aviv thousands just went to the
+beach to watch the sun set over the Mediterranean.
+</P>
+<P>
+   Security was heavy in Israel as three religions and some
+doomsday cultists marked the occasion, each in its own way. It was
+especially tight on Jerusalem's Mount of Olives, where Christian
+fundamentalists had camped to witness the end of the world, and at
+the Old City's Temple Mount, with sites sacred to Muslims and Jews.
+</P>
+<P>
+   On the last New Year's Eve of the Christian millennium,
+observant Jews ushered in the sabbath, as they do every Friday, and
+many went to pray at the Western Wall, Judaism's holiest site,
+while 400,000 Muslims flocked to the al-Aqsa Mosque on Temple Mount
+to mark the last Friday of prayer and fasting in the holy month of
+Ramadan.
+</P>
+<P>
+   In Paris, with new lighting on buildings, boulevards and bridges
+over the Seine twinkling like the bonfires of a great Medieval
+encampment, people packed the Champs-Elysees from the Tuileries to
+the Arc de Triomphe as a digital clock at the Eiffel Tower counted
+down _ overcoming an old-fashioned glitch that shut it down five
+hours before midnight _ and announced the millennium in a burst of
+20,000 electronic flashes.
+</P>
+<P>
+   In London, 2 million people lined the Thames for a spectacular
+fireworks show, as Queen Elizabeth, Prime Minister Tony Blair and
+other dignitaries gathered under the 20-acre Millennium Dome, a
+flying-saucer-like colossus at Longitude Zero in Greenwich, to mark
+the transition while the bells of St. Paul's and Westminster and
+churches across Britain pealed. Huge street parties were held in
+hundreds of Britain's cities and towns.
+</P>
+<P>
+   In Egypt, floodlights, lasers and fireworks illuminated the
+ancient pyramids at Giza and electronic music reverberated over the
+desert as 50,000 people wined and dined in luxury tents and watched
+a sparkling millennium show under the watchful eyes of police
+officers on camels.
+</P>
+<P>
+   Elsewhere, there were torchlight parades in the streets of
+Stockholm; fireworks and singing by massed choirs in Reykjavik,
+Iceland; concerts and a ball at the opera house in Tallinn,
+Estonia; and a Millennium Ball at the Catherine Palace in St.
+Petersburg, Russia.
+</P>
