@@ -1,0 +1,16 @@
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\bin\Debug\net5.0\static_members.exe
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\bin\Debug\net5.0\static_members.deps.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\bin\Debug\net5.0\static_members.runtimeconfig.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\bin\Debug\net5.0\static_members.runtimeconfig.dev.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\bin\Debug\net5.0\static_members.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\bin\Debug\net5.0\ref\static_members.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\bin\Debug\net5.0\static_members.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\static_members.csprojAssemblyReference.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\static_members.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\static_members.AssemblyInfoInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\static_members.AssemblyInfo.cs
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\static_members.csproj.CoreCompileInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\static_members.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\ref\static_members.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\static_members.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\static_members\obj\Debug\net5.0\static_members.genruntimeconfig.cache

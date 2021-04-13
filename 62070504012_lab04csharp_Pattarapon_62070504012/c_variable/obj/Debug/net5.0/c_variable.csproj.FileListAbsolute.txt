@@ -1,0 +1,16 @@
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\bin\Debug\net5.0\c_variable.exe
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\bin\Debug\net5.0\c_variable.deps.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\bin\Debug\net5.0\c_variable.runtimeconfig.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\bin\Debug\net5.0\c_variable.runtimeconfig.dev.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\bin\Debug\net5.0\c_variable.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\bin\Debug\net5.0\ref\c_variable.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\bin\Debug\net5.0\c_variable.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\c_variable.csprojAssemblyReference.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\c_variable.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\c_variable.AssemblyInfoInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\c_variable.AssemblyInfo.cs
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\c_variable.csproj.CoreCompileInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\c_variable.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\ref\c_variable.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\c_variable.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_variable\obj\Debug\net5.0\c_variable.genruntimeconfig.cache

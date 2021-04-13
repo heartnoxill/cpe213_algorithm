@@ -1,0 +1,16 @@
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\bin\Debug\net5.0\c_constr_destr.exe
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\bin\Debug\net5.0\c_constr_destr.deps.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\bin\Debug\net5.0\c_constr_destr.runtimeconfig.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\bin\Debug\net5.0\c_constr_destr.runtimeconfig.dev.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\bin\Debug\net5.0\c_constr_destr.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\bin\Debug\net5.0\ref\c_constr_destr.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\bin\Debug\net5.0\c_constr_destr.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\c_constr_destr.csprojAssemblyReference.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\c_constr_destr.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\c_constr_destr.AssemblyInfoInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\c_constr_destr.AssemblyInfo.cs
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\c_constr_destr.csproj.CoreCompileInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\c_constr_destr.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\ref\c_constr_destr.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\c_constr_destr.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_constr_destr\obj\Debug\net5.0\c_constr_destr.genruntimeconfig.cache

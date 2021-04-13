@@ -1,0 +1,16 @@
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\bin\Debug\net5.0\c_inheritance.exe
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\bin\Debug\net5.0\c_inheritance.deps.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\bin\Debug\net5.0\c_inheritance.runtimeconfig.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\bin\Debug\net5.0\c_inheritance.runtimeconfig.dev.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\bin\Debug\net5.0\c_inheritance.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\bin\Debug\net5.0\ref\c_inheritance.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\bin\Debug\net5.0\c_inheritance.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\c_inheritance.csprojAssemblyReference.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\c_inheritance.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\c_inheritance.AssemblyInfoInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\c_inheritance.AssemblyInfo.cs
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\c_inheritance.csproj.CoreCompileInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\c_inheritance.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\ref\c_inheritance.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\c_inheritance.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_inheritance\obj\Debug\net5.0\c_inheritance.genruntimeconfig.cache

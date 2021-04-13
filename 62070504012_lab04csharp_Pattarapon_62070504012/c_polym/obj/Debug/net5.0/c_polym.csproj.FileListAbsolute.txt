@@ -1,0 +1,16 @@
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\c_polym.csprojAssemblyReference.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\c_polym.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\c_polym.AssemblyInfoInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\c_polym.AssemblyInfo.cs
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\c_polym.csproj.CoreCompileInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\bin\Debug\net5.0\c_polym.exe
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\bin\Debug\net5.0\c_polym.deps.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\bin\Debug\net5.0\c_polym.runtimeconfig.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\bin\Debug\net5.0\c_polym.runtimeconfig.dev.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\bin\Debug\net5.0\c_polym.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\bin\Debug\net5.0\ref\c_polym.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\bin\Debug\net5.0\c_polym.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\c_polym.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\ref\c_polym.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\c_polym.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_polym\obj\Debug\net5.0\c_polym.genruntimeconfig.cache

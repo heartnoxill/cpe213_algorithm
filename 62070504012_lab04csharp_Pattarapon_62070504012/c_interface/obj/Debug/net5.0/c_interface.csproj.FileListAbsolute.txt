@@ -1,0 +1,16 @@
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\c_interface.csprojAssemblyReference.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\c_interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\c_interface.AssemblyInfoInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\c_interface.AssemblyInfo.cs
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\c_interface.csproj.CoreCompileInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\bin\Debug\net5.0\c_interface.exe
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\bin\Debug\net5.0\c_interface.deps.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\bin\Debug\net5.0\c_interface.runtimeconfig.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\bin\Debug\net5.0\c_interface.runtimeconfig.dev.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\bin\Debug\net5.0\c_interface.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\bin\Debug\net5.0\ref\c_interface.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\bin\Debug\net5.0\c_interface.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\c_interface.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\ref\c_interface.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\c_interface.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_interface\obj\Debug\net5.0\c_interface.genruntimeconfig.cache

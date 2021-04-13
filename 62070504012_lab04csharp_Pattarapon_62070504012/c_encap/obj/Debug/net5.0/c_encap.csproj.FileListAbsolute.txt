@@ -1,0 +1,16 @@
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\bin\Debug\net5.0\c_encap.exe
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\bin\Debug\net5.0\c_encap.deps.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\bin\Debug\net5.0\c_encap.runtimeconfig.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\bin\Debug\net5.0\c_encap.runtimeconfig.dev.json
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\bin\Debug\net5.0\c_encap.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\bin\Debug\net5.0\ref\c_encap.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\bin\Debug\net5.0\c_encap.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\c_encap.csprojAssemblyReference.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\c_encap.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\c_encap.AssemblyInfoInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\c_encap.AssemblyInfo.cs
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\c_encap.csproj.CoreCompileInputs.cache
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\c_encap.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\ref\c_encap.dll
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\c_encap.pdb
+C:\Users\Heart\OneDrive\Desktop\dbcss\c_encap\obj\Debug\net5.0\c_encap.genruntimeconfig.cache
