@@ -14,7 +14,7 @@ def shiftTable(pattern):
     for i in range(size-1):
         table[i] = m
     for j in range(m-2):
-        table[pattern[j]] = m-1-j
+        table[ord(pattern[j])] = m-1-j
     return table
 
 def horspoolMatch(pattern, text):
@@ -30,7 +30,8 @@ def horspoolMatch(pattern, text):
             k += 1
         if k == m:
             cnt += 1
-            print("Pattern {} found in position: {}".format(pattern,cnt))
+            print("Pattern {} found in comparison: {}".format(pattern, cnt))
+            print("Found in index {} of input text".format(i-m+1))
             return i-m+1
         else:
             i += table[ord(text[i])]
