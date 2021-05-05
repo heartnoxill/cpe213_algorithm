@@ -33,6 +33,12 @@ def Warshall_algo(vertices):
         for i in range(vertices):
             for j in range(vertices):
                 R_k[i][j] = R_k[i][j] or (R_k[i][k] and R_k[k][j])
+        print("Step k+")
+        for r in R_k:
+            for c in r:
+                print(c, end=" ")
+            print()
+
     print("Transitive closure of the graph ... \n")
     for r in R_k:
         for c in r:
