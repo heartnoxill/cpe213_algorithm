@@ -1,6 +1,8 @@
 # Dijkstra Algorithm
 import random as r
+import numpy as np
 import sys
+
 __author__ = "Pattarapon Buathong 62070504012"
 
 global vertices
@@ -8,26 +10,21 @@ global nodes
 
 def random_graph(vertices):
     # Generate zero matrix (vertices x vertices)
-    matrix_random = [[0 for m in range(vertices)] for n in range(vertices)]
+    matrix_random = np.zeros((vertices,vertices), int)
+    print("Generate an cost matrix of an undirected random graph ...")
 
     for i in range(vertices):
-        for j in range(vertices):
-            u = r.random()
-            if i != j and u < 0.4:
-                u = r.randint(1,10)
-            elif i==j:
-                u = 0
+        for j in range(i, vertices):
+            u = r.randint(1,10)/10
+            if i==j:
+                matrix_random[i][j] = 0
+            elif u < 0.4:
+                matrix_random[i][j] = r.randint(1,10)
+                matrix_random[j][i] = matrix_random[i][j]
             else:
-                u = 0
-            matrix_random[i][j] = u
-            matrix_random[j][i] = u
-
-    print("Generate an cost matrix of an undirected random graph ...")
-    # Print the matrix
-    for row in matrix_random:
-        for col in row:
-            print(col, end=" ")
-        print()
+                matrix_random[i][j] = 1
+                matrix_random[j][i] = -1
+    print(matrix_random)
     return matrix_random
 
 def shortDist(distance, shrtPath):
@@ -42,9 +39,9 @@ def shortDist(distance, shrtPath):
 
 def Dijkstra(nodes, vertices):
     matrix_random = random_graph(vertices)
-    distance = [sys.maxsize] * vertices
+    distance = [sys.maxsize] * vertices # At first, distance = inf
     distance[nodes] = 0 # Distance fron itself = 0
-    shrtPath = [False] * vertices
+    shrtPath = [0] * vertices
     path = []
     path.append(nodes)
     for foo in range(vertices):
@@ -53,12 +50,17 @@ def Dijkstra(nodes, vertices):
         for idx in range(vertices):
             if (matrix_random[min_d][idx] > 0) and (shrtPath[idx] == False) and (distance[idx] > distance[min_d] + matrix_random[min_d][idx]):
                 distance[idx] = distance[min_d] + matrix_random[min_d][idx]
-                path.append(idx)
+                if distance[idx] != sys.maxsize:
+                    if len(path) == vertices:
+                        break
+                    else:
+                        path.append(idx)
 
 
     print("Vertex \t Distance from source" )
     for j in range(vertices):
         print("{}          {}".format(j, distance[j]))
+    print("Shortest distance")
     for p in path:
         print(p, end=" -> ")
 
