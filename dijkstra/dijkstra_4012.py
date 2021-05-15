@@ -19,7 +19,7 @@ def random_graph(vertices):
             if i==j:
                 matrix_random[i][j] = 0
             elif u < 0.4:
-                matrix_random[i][j] = r.randint(1,10)
+                matrix_random[i][j] = 1+r.randint(1,10)%10
                 matrix_random[j][i] = matrix_random[i][j]
             else:
                 matrix_random[i][j] = 1
